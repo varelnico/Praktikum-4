@@ -120,5 +120,3 @@ Program selesai.
 ```
 
 ---
-
-Kalau mau, saya bisa buatkan **versi yang lebih singkat** atau **versi yang sangat rinci seperti di GitHub-mu**.
