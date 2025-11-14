@@ -46,16 +46,7 @@ Nilai dibuat `float()` karena berbentuk angka desimal.
 
 ---
 
-## **5. Validasi nilai (error handling)**
-
-Bagian nilai menggunakan `try – except`:
-
-* Jika input nilai **bukan angka**, munculkan pesan error
-* Kemudian ulangi input
-
----
-
-## **6. Hitung nilai akhir berdasarkan bobot**
+## **5. Hitung nilai akhir berdasarkan bobot**
 
 Rumus:
 
@@ -67,7 +58,7 @@ Output disimpan sebagai `nilai_akhir`.
 
 ---
 
-## **7. Simpan semua data ke dalam dictionary**
+## **6. Simpan semua data ke dalam dictionary**
 
 Data mahasiswa dimasukkan ke:
 
@@ -83,7 +74,7 @@ data_mahasiswa.append(data_entry)
 
 ---
 
-## **8. Tanyakan apakah ingin menambah data lagi**
+## **7. Tanyakan apakah ingin menambah data lagi**
 
 Program menampilkan:
 
@@ -96,11 +87,9 @@ Jika `y` → kembali ke atas dan input data baru lagi.
 
 ---
 
-## **9. Setelah loop selesai, tampilkan tabel data mahasiswa**
+## **8. Setelah loop selesai, tampilkan tabel data mahasiswa**
 
-Jika list kosong → tampilkan pesan “Tidak ada data”.
-
-Jika ada data, program menampilkan setiap mahasiswa lengkap dengan:
+program menampilkan setiap mahasiswa lengkap dengan:
 
 * Nama
 * NIM
@@ -111,7 +100,7 @@ Jika ada data, program menampilkan setiap mahasiswa lengkap dengan:
 
 ---
 
-## **10. Tampilkan pesan akhir**
+## **9. Tampilkan pesan akhir**
 
 Program menutup dengan:
 
@@ -120,3 +109,4 @@ Program selesai.
 ```
 
 ---
+
