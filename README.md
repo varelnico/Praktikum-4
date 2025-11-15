@@ -1,4 +1,7 @@
-﻿# Praktikum-4
+## Nama : Varel Nico Ramadhan
+## NIM  : 312510156
+ 
+ # Praktikum-4
  
 ---
 
@@ -109,4 +112,5 @@ Program selesai.
 ```
 
 ---
+
 
